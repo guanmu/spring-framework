@@ -2,7 +2,7 @@
 *.sonarj
 *.sw*
 .DS_Store
-#.settings
+.settings
 .springBeans
 bin
 build.sh
@@ -22,9 +22,9 @@ buildSrc/build
 target/
 
 # Eclipse artifacts, including WTP generated manifests
-#.classpath
-#.project
-#spring-*/src/main/java/META-INF/MANIFEST.MF
+.classpath
+.project
+spring-*/src/main/java/META-INF/MANIFEST.MF
 
 # IDEA artifacts and output dirs
 *.iml
