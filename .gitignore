@@ -18,7 +18,7 @@ pom.xml
 
 /build
 buildSrc/build
-#/spring-*/build
+/spring-*/build
 target/
 
 # Eclipse artifacts, including WTP generated manifests
